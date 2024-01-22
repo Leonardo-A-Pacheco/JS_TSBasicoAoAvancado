@@ -25,7 +25,6 @@ console.log(umaString.lastIndexOf('um', 5));
 console.log(umaString.replace('um', 'unico'));
 //tamanho total da string
 console.log(umaString.length);
-
 //                 0123456789
 let outraString = 'cavalos são pessoas grandes';
 
